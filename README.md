@@ -3,7 +3,7 @@
 ## Opis
 
 Aplikacja jest prostym przykładem realizującym założenie listy kontaktów umożliwiającą
-dodawanie, usuwanie oraz edycję użytkowników.
+dodawanie,  usuwanie oraz edycję użytkowników.
 
 ## Instrukcja uruchomienia
 
