@@ -9,12 +9,12 @@ dodawanie, usuwanie oraz edycję użytkowników.
 
 ### Backend
 
-cd contacts-backend
+cd contacts-backend  
 npm run start
 
 ### Frontend
 
-cd contacts-frontend
+cd contacts-frontend  
 npm run dev
 
 ## Uwaga
