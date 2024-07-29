@@ -28,7 +28,7 @@ Należy je doinstalować samodzielnie
 ![Pusta tabela wraz z formularzem](screenshots/empty.png)
 
 ### Lista kontaktów z wprowadzonymi rekordami
-![Lista kontaktów](screenshots/update.png)
+![Lista kontaktów](screenshots/table.png)
 
 ### Aktualizacja danych użytkownika
 ![Aktualizacja danych użytkownika](screenshots/update.png)
